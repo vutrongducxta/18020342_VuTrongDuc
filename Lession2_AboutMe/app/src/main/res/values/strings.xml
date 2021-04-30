@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lession2_AboutMe</string>
+    <string name="name">Vũ Trọng Đức</string>
+    <string name="yellow_star">sao vàng</string>
+    <string name="bio">Xin chào, mình là Đức
+        \nTôi sinh ra ở quận Đống Đa, Hà Nội. Tôi sống ở đây từ nhỏ cùng với bố mẹ.
+        \nHiện tại, tôi 11 tuổi và học ở lớp 6A trường THCS ABC.
+        \nGia đình tôi có 4 người gồm bố mẹ, anh trai và tôi.
+        \nChúng tôi luôn sẵn sàng giúp đỡ lẫn nhau và gia đình tôi rất hạnh phúc.
+        \nĐối với bạn cùng lớp, tôi là 1 đứa trẻ năng động và hài hước vì thế họ quý tôi lắm.
+        \nTôi có rất nhiều bạn ở trường. Bên cạnh đó, tôi học rất giỏi ở môn Toán và Tiếng Anh.
+        \nTôi thường xuyên đạt được nhiều điểm cao ở các môn học này. Tôi tự hào về điều đó.
+        \nTôi là 1 người hâm mộ lớn của truyện trinh thám. Vào lúc rảnh rỗi, tôi luôn đọc chúng với niềm đam mê mãnh liệt.
+        \nTrong tương lai, tôi cũng muốn trở thành 1 thám tử như Sherlock Holmes.</string>
+    <string name="biệt_danh_của_bạn_là_gì">điền biệt danh nào</string>
+    <string name="xong">xong</string>
+    <string name="done">Done</string>
+</resources>
